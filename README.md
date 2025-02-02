@@ -1,2 +1,2 @@
-# Car-shop-project
-Car shopping site developed with React
+# React-store-project
+React store project
